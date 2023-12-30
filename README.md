@@ -1,27 +1,19 @@
-![logo](https://github.com/Anu-G-Jais/Anu-G-Jais/blob/main/Hello%20world/banner.png)
-<h1 align="center">Hi 👋, I'm Anurag</h1>
-<h3 align="center">🚀 Aspiring Software Developer | CS Graduate 🎓</h3>
+# Hi there! 👋 I'm Anurag, an Aspiring Software Developer and Recent CS Graduate 🎓
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+![Profile Banner](https://github.com/Anu-G-Jais/Anu-G-Jais/blob/main/Hello%20world/banner.png)
 
-- 🔭 I’m currently **Exploring new projects to enhance my coding skills.**
+## About Me
+🚀 As a recent Computer Science graduate, I am eager to kickstart my career as a Software Developer. I am passionate about exploring new projects to enhance my coding skills.
 
-- 🤔 Looking for Help With **Navigating the early stages of my career and seeking guidance on Software Development.**
+## Get in Touch
+- 📧 Feel free to drop me an email at [anugjais@gmail.com](mailto:anugjais@gmail.com).
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/anurag-jais-b48179208/).
 
-- 📫 How to reach me **Feel free to drop me an email at [anugjais@gmail.com](mailto:anugjais@gmail.com).**
+## What I'm Up To
+- 🔭 Currently diving into new technologies to broaden my skill set.
+- 🤔 Looking for help with navigating the early stages of my career in backend development. Seeking guidance on building scalable applications.
 
-- ⚡ Fun fact **I love to make new friends! Feel free to connect and let's share our coding journeys.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/anurag-jais-b48179208/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -42,3 +34,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
+
+## Let's Connect
+I love making new friends! Feel free to connect, and let's share our coding journeys.
+
+---
+
+<p align="center">⭐️ Show some love by starring repositories that you find interesting! ⭐️</p>
