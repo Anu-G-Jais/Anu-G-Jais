@@ -1,3 +1,4 @@
+![logo](https://github.com/Anu-G-Jais/Anu-G-Jais/blob/main/Hello%20world/banner.png)
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">🚀 Aspiring Software Developer | CS Graduate 🎓</h3>
 
